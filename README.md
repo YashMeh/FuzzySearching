@@ -1,3 +1,3 @@
 ## Disease Search
 
-* A simple API for fuzzy searching purposes
+* A simple API for fuzzy searching purposes.
